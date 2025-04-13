@@ -1,0 +1,4 @@
+# Standard gitignore file
+# for a Node.js project
+
+node_modules/

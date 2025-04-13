@@ -1,6 +1,7 @@
 import fs from 'fs/promises';
 import path from 'path';
 import sharp from 'sharp';
+import { encode } from 'blurhash';
 
 const repoUrl = 'https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main';
 const imagesDir = './images';
@@ -32,7 +33,7 @@ async function convertToWebpAndDeleteOriginals(dir) {
 
 async function generateJson(dir, basePath = 'images') {
     const entries = await fs.readdir(dir, { withFileTypes: true });
-    let urls = [];
+    let results = [];
 
     for (const entry of entries) {
         const entryPath = path.join(dir, entry.name);
@@ -40,13 +41,22 @@ async function generateJson(dir, basePath = 'images') {
 
         if (entry.isDirectory()) {
             const nested = await generateJson(entryPath, relativePath);
-            urls = urls.concat(nested);
+            results = results.concat(nested);
         } else if (entry.name.endsWith('.webp')) {
-            urls.push(`${repoUrl}/${relativePath.replace(/\\/g, '/')}`);
+            const buffer = await fs.readFile(entryPath);
+            const image = sharp(buffer);
+            const { data, info } = await image.raw().ensureAlpha().resize(32, 32).toBuffer({ resolveWithObject: true });
+
+            const blurhash = encode(new Uint8ClampedArray(data), info.width, info.height, 4, 4);
+
+            results.push({
+                url: `${repoUrl}/${relativePath.replace(/\\/g, '/')}`,
+                blurhash
+            });
         }
     }
 
-    return urls;
+    return results;
 }
 
 await convertToWebpAndDeleteOriginals(imagesDir);

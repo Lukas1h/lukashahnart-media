@@ -5,6 +5,7 @@
         "update-images": "node scripts/update-images.mjs"
     },
     "dependencies": {
-        "sharp": "^0.33.0"
+        "blurhash": "^2.0.5",
+        "sharp": "^0.33.5"
     }
 }
