@@ -1,6 +1,3 @@
-
-
-// Replace this with your actual repo raw URL
 import fs from 'fs/promises';
 import path from 'path';
 import sharp from 'sharp';
@@ -8,13 +5,14 @@ import { encode } from 'blurhash';
 
 const __dirname = path.resolve();
 const imagesDir = path.join(__dirname, 'images');
+const categoriesPath = path.join(__dirname, 'categories.json');
 const jsonPath = path.join(__dirname, 'images.json');
 
-// Replace this with your actual repo raw URL
+// Change this to your actual raw content base URL
 const repoUrl = 'https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main';
 
 /**
- * Convert supported images to .webp and delete originals
+ * Convert all .jpg/.jpeg/.png images in folders to .webp
  */
 async function convertImagesToWebp(dir) {
     const entries = await fs.readdir(dir, { withFileTypes: true });
@@ -37,52 +35,59 @@ async function convertImagesToWebp(dir) {
 }
 
 /**
- * Generate images.json grouped by category (folder)
+ * Generate images.json using the manually defined categories.json
  */
-async function generateJson(rootDir) {
-    const categories = await fs.readdir(rootDir, { withFileTypes: true });
-    const results = [];
+async function generateJsonFromCategories() {
+    const categoriesRaw = await fs.readFile(categoriesPath, 'utf8');
+    const categories = JSON.parse(categoriesRaw);
+    const output = [];
 
-    for (const category of categories) {
-        if (!category.isDirectory()) continue;
-
-        const categoryName = category.name;
-        const categoryPath = path.join(rootDir, categoryName);
+    for (const cat of categories) {
+        const folder = path.join(imagesDir, cat.path);
+        const entries = await fs.readdir(folder);
         const images = [];
 
-        const files = await fs.readdir(categoryPath);
-        for (const file of files) {
+        for (const file of entries) {
             if (!file.endsWith('.webp')) continue;
 
-            const fullPath = path.join(categoryPath, file);
+            const fullPath = path.join(folder, file);
             const buffer = await fs.readFile(fullPath);
             const image = sharp(buffer);
-            const { data, info } = await image.raw().ensureAlpha().resize(32, 32).toBuffer({ resolveWithObject: true });
+            const { data, info } = await image
+                .raw()
+                .ensureAlpha()
+                .resize(32, 32)
+                .toBuffer({ resolveWithObject: true });
+
             const blurhash = encode(new Uint8ClampedArray(data), info.width, info.height, 4, 4);
 
             images.push({
-                url: `${repoUrl}/images/${categoryName}/${file}`,
-                blurhash
+                url: `${repoUrl}/images/${cat.path}${file}`,
+                blurhash,
             });
         }
 
-        results.push({ category: categoryName, images });
+        output.push({
+            category: cat.name,
+            description: cat.description,
+            images,
+        });
     }
 
-    return results;
+    return output;
 }
 
 /**
- * Run full update: convert and generate JSON
+ * Run all tasks
  */
 async function main() {
     await convertImagesToWebp(imagesDir);
-    const json = await generateJson(imagesDir);
-    await fs.writeFile(jsonPath, JSON.stringify(json, null, 2));
-    console.log(`✅ Done! Updated ${jsonPath}`);
+    const data = await generateJsonFromCategories();
+    await fs.writeFile(jsonPath, JSON.stringify(data, null, 2));
+    console.log('✅ images.json updated successfully.');
 }
 
-main().catch(err => {
-    console.error(err);
+main().catch((err) => {
+    console.error('❌ Error:', err);
     process.exit(1);
 });
