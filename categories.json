@@ -2,31 +2,31 @@
     {
         "name": "Portraits and People",
         "description": "Portraits and candid shots of people in various environments.",
-        "path": "Portraits and People"
+        "path": "Portraits and People/"
     },
     {
         "name": "Landscape and Nature",
         "description": "Scenic views and natural elements from various places.",
-        "path": "Landscape and Nature"
+        "path": "Landscape and Nature/"
     },
     {
         "name": "Astrophotography",
         "description": "Photos capturing the beauty of the night sky and celestial objects.",
-        "path": "Astrophotography"
+        "path": "Astrophotography/"
     },
     {
         "name": "CCA",
         "description": "Moments from CCA events and gatherings.",
-        "path": "CCA"
+        "path": "CCA/"
     },
     {
         "name": "Concert",
         "description": "Live music performances and concert photography.",
-        "path": "Concert"
+        "path": "Concert/"
     },
     {
         "name": "Other",
         "description": "Photos that don’t quite fit into the main categories—miscellaneous moments.",
-        "path": "Other"
+        "path": "Other/"
     }
 ]
