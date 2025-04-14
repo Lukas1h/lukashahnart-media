@@ -1,32 +1,32 @@
 [
     {
-        "name": "Astrophotography",
-        "description": "Photos capturing the beauty of the night sky and celestial objects.",
-        "path": "images/Astrophotography"
-    },
-    {
-        "name": "CCA",
-        "description": "Moments from CCA events and gatherings.",
-        "path": "images/CCA"
-    },
-    {
-        "name": "Concert",
-        "description": "Live music performances and concert photography.",
-        "path": "images/Concert"
+        "name": "Portraits and People",
+        "description": "Portraits and candid shots of people in various environments.",
+        "path": "Portraits and People"
     },
     {
         "name": "Landscape and Nature",
         "description": "Scenic views and natural elements from various places.",
-        "path": "images/Landscape and Nature"
+        "path": "Landscape and Nature"
+    },
+    {
+        "name": "Astrophotography",
+        "description": "Photos capturing the beauty of the night sky and celestial objects.",
+        "path": "Astrophotography"
+    },
+    {
+        "name": "CCA",
+        "description": "Moments from CCA events and gatherings.",
+        "path": "CCA"
+    },
+    {
+        "name": "Concert",
+        "description": "Live music performances and concert photography.",
+        "path": "Concert"
     },
     {
         "name": "Other",
         "description": "Photos that don’t quite fit into the main categories—miscellaneous moments.",
-        "path": "images/Other"
-    },
-    {
-        "name": "Portraits and People",
-        "description": "Portraits and candid shots of people in various environments.",
-        "path": "images/Portraits and People"
+        "path": "Other"
     }
 ]
