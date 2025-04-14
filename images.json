@@ -1,255 +1,261 @@
 [
   {
-    "category": "Astrophotography",
+    "category": "Portraits and People",
+    "description": "Portraits and candid shots of people in various environments.",
     "images": [
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Astrophotography/star_1.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and PeopleP1110068.webp",
+        "blurhash": "UD8aKWMxk?ysB@pJQ-Q,h|a0tltRg%kCV@Wr"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplebeach_1.webp",
+        "blurhash": "UpIzbFIVwHxv~TnOV?o#tQs+NGa$%0WVjaWC"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplebrandon_1.webp",
+        "blurhash": "UNF5dGxt00NF~Voc9sRjkER*M{sWNas:n+Rk"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplebrandon_2.webp",
+        "blurhash": "USFY0^^k0x56~Bt69tWAogNHNFsooyjbn*a#"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplebrandon_3.webp",
+        "blurhash": "UoJQ+gs:EzNG~VxuSNt6kDt8s.s:ozays;R*"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplebrandon_4.webp",
+        "blurhash": "UGFhnzVXE2$k~n9tE#w3BSJ%WXVtNa-o$*Ip"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplecca_5.webp",
+        "blurhash": "UwHV3s%MTJWVu6ozaKoLOukCr?kDn.jZS1W="
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peopleisak.webp",
+        "blurhash": "UMG+jz$]AVtL+}EA4:oN$wo}NG-:*0a0R:IV"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplejacob.webp",
+        "blurhash": "UHGkn7DhpwS1~qD$xajr0ebXvzsl?akCtQRj"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplekayna_1.webp",
+        "blurhash": "UVF=mv_3?GRk~q%NIpRj%gtRM{RjNHo1M{WB"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplekayna_2.webp",
+        "blurhash": "UJDI]_%h?axb~p%gNxoyt6%Mt6xuE7tk%3xv"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplekayna_3.webp",
+        "blurhash": "UJHL9d~9Ew^%=o^P%LI.?uWVr?xHtM%1$*I:"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplekayna_and_mom.webp",
+        "blurhash": "UoF~5N%h-;xu~WtSxus:x]ogRjV@XSt6RjV@"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplekayna_scooter.webp",
+        "blurhash": "UWGb*L?GtQxt?w?HaykCx_%3aea#%gWBWBj?"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplekitchen_1.webp",
+        "blurhash": "U8BzE=~m~T-j?Zkq9aozIBxtV@%LVtDj-:M{"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplekitchen_2.webp",
+        "blurhash": "UFF$98~V4nM{s:IVR.NHV?WWRPadRjxas.R-"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplelukas_1.webp",
+        "blurhash": "UkF5~o9Zofs:~qD*ofs:-;RjfQj[ozs:WBWV"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplelukas_2.webp",
+        "blurhash": "UwIrHWxDn#%g_NM{WWtRpIR+oejYOFt8jtM{"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplelukas_3.webp",
+        "blurhash": "U$J[9fxtN{M|_Ns:x]js%gofxtWCS4oLoej["
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplemason.webp",
+        "blurhash": "UYDmN^4.%gt7_NIot7t7tRofaKWVx]jtRjay"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplemason_2.webp",
+        "blurhash": "U]H_rdf6R*of~qf6j[fk?bWBWVoet8WVoeay"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplemexico_flag.webp",
+        "blurhash": "U+G0@FVsM_jYYRbIjZayIotRt8ogoeWBWBbI"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and Peoplemom_dad.webp",
+        "blurhash": "UVF=p?%gX9xu_N%g?HflyD%g%MWB-:t7t7t7"
+      }
+    ]
+  },
+  {
+    "category": "Landscape and Nature",
+    "description": "Scenic views and natural elements from various places.",
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and NatureP1110076.webp",
+        "blurhash": "UnEDu7XTo#t6PXx]WDa_tla|jFaxnhWBjYj["
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Naturebeach_2.webp",
+        "blurhash": "UUIWr%s.0ioL~AoKRkoLA0jsxsWXERayg2WX"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Naturecloud.webp",
+        "blurhash": "U6G,hR009b1000Me~BNF00ra={xu0L^j0L^+"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Natureflower.webp",
+        "blurhash": "UGGl^s150rbXb}aINzWY01nM}jV@%hSj%0xZ"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Naturemexico_hill.webp",
+        "blurhash": "UnFO=a%2NGj]~qxaWBj]o#jZt6bHE2R*xaWV"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Naturetree.webp",
+        "blurhash": "UGBrG=oePEcH00s*ktR:xAbcROnhlCbJV?ad"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Naturewater_bridge.webp",
+        "blurhash": "UgCjRtE2WCoe~pIpRjof?HRjWVoL%3f5oeWC"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Naturewishy.webp",
+        "blurhash": "UODl_[_2s;t7~p%Mxut7D+Rk%Lt6M{j?xaj["
+      }
+    ]
+  },
+  {
+    "category": "Astrophotography",
+    "description": "Photos capturing the beauty of the night sky and celestial objects.",
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Astrophotographystar_1.webp",
         "blurhash": "U19Qst_200Ip4hs;aakV01V]-.t6s:xux[IV"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Astrophotography/star_2.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Astrophotographystar_2.webp",
         "blurhash": "UBBWu6WE02M|9*of-kjY03t5?Zfl~SRk9ckC"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Astrophotography/star_3.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Astrophotographystar_3.webp",
         "blurhash": "U01oz#M_I9ogDjxut7WAVpWFo#aykXjXaebI"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Astrophotography/star_4.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Astrophotographystar_4.webp",
         "blurhash": "U00^kpHrjFkXD4x]flf5%fR-ayj@NLoejsa|"
       }
     ]
   },
   {
     "category": "CCA",
+    "description": "Moments from CCA events and gatherings.",
     "images": [
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCA/cca_1.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCAcca_1.webp",
         "blurhash": "UTIW$9%2kC%2~US5WBs.E2s,NHNH0MaKn$V@"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCA/cca_2.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCAcca_2.webp",
         "blurhash": "UKG7n@-nE3t6}?s.I;ay0iIqIpR*9bR*ofWV"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCA/cca_3.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCAcca_3.webp",
         "blurhash": "UIGkm:-S9Zx]~URka#NG4;R-t6xtrrkCNa%2"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCA/cca_4.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCAcca_4.webp",
         "blurhash": "UJG[$W~q%KNLtmRPs*I[01M{kCxvMeM|RPtQ"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCA/cca_6.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCAcca_6.webp",
         "blurhash": "UHFiAJXAS0?I_Mi~V@oy00nhM{M|8{o|WBt7"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCA/cca_7.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCAcca_7.webp",
         "blurhash": "UFECd=Vt-;XA~nVqM_awOlE1tmIox]o~IpjG"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCA/cca_8.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/CCAcca_8.webp",
         "blurhash": "U8AJ=*%G9FVr}*^%xvoz$x-UR$bYx^NaVsi^"
       }
     ]
   },
   {
     "category": "Concert",
+    "description": "Live music performances and concert photography.",
     "images": [
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Concert/concert_1.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Concertconcert_1.webp",
         "blurhash": "U38NIa={0;AI?HX89uae00I;}R,.0Li_^Oof"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Concert/concert_2.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Concertconcert_2.webp",
         "blurhash": "U6A0n2-T0%M{00R:D%NL00ad~Bs..9ax-pxZ"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Concert/concert_3.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Concertconcert_3.webp",
         "blurhash": "UJC~VYs,56WB}@jFNdj]S1ayoMayX9oJR+R*"
       }
     ]
   },
   {
-    "category": "Landscape and Nature",
-    "images": [
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Nature/P1110076.webp",
-        "blurhash": "UnEDu7XTo#t6PXx]WDa_tla|jFaxnhWBjYj["
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Nature/beach_2.webp",
-        "blurhash": "UUIWr%s.0ioL~AoKRkoLA0jsxsWXERayg2WX"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Nature/cloud.webp",
-        "blurhash": "U6G,hR009b1000Me~BNF00ra={xu0L^j0L^+"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Nature/flower.webp",
-        "blurhash": "UGGl^s150rbXb}aINzWY01nM}jV@%hSj%0xZ"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Nature/mexico_hill.webp",
-        "blurhash": "UnFO=a%2NGj]~qxaWBj]o#jZt6bHE2R*xaWV"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Nature/tree.webp",
-        "blurhash": "UGBrG=oePEcH00s*ktR:xAbcROnhlCbJV?ad"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Nature/water_bridge.webp",
-        "blurhash": "UgCjRtE2WCoe~pIpRjof?HRjWVoL%3f5oeWC"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Landscape and Nature/wishy.webp",
-        "blurhash": "UODl_[_2s;t7~p%Mxut7D+Rk%Lt6M{j?xaj["
-      }
-    ]
-  },
-  {
     "category": "Other",
+    "description": "Photos that don’t quite fit into the main categories—miscellaneous moments.",
     "images": [
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Other/fair.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Otherfair.webp",
         "blurhash": "U54_;1NsqmaQ4os;TUk7rfjFpGkW?]Sdq*aO"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Other/flag.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Otherflag.webp",
         "blurhash": "U76,K0:5I~Osxu+Wng9i7QAJkq-n1U5?tk={"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Other/gas.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Othergas.webp",
         "blurhash": "U98W]Xt701D*t7ofRjjZ00Rj~V-pMxRj%MkC"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Other/gm_1.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Othergm_1.webp",
         "blurhash": "UFJ@~~0000t94T-=o~W9ax-;D*IT~qxu9GIU"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Other/greenhouse.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Othergreenhouse.webp",
         "blurhash": "UyL4j9E2IUxt_NbajsWCt8ozoLWCxaWCWBof"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Other/innout.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Otherinnout.webp",
         "blurhash": "UECEweWANGs;9afkt6WB0fofxaS1~VjYIot7"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Other/lulu.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Otherlulu.webp",
         "blurhash": "UmKKfoM_D$xt~pIUM{j^IwM{RnW?oct1t6t7"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Other/mexico_cross.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Othermexico_cross.webp",
         "blurhash": "U9G91~04Xm=|D,Nw+[Sh00^NwIAE?^#,0~r;"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Other/parking_garage.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Otherparking_garage.webp",
         "blurhash": "U9B3K4o#04%2NtE2nhxp02aK~SI:%K-oXAN2"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Other/railroad.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Otherrailroad.webp",
         "blurhash": "UhI67lQ,PBx]_NkWXTtRrrpIRjRP%2IVofoJ"
       },
       {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Other/stair.webp",
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Otherstair.webp",
         "blurhash": "UHC$T7bb0LIo%1IpaxxuRjRjkCbI~BxaE29a"
-      }
-    ]
-  },
-  {
-    "category": "Portraits and People",
-    "images": [
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/P1110068.webp",
-        "blurhash": "UD8aKWMxk?ysB@pJQ-Q,h|a0tltRg%kCV@Wr"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/beach_1.webp",
-        "blurhash": "UpIzbFIVwHxv~TnOV?o#tQs+NGa$%0WVjaWC"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/brandon_1.webp",
-        "blurhash": "UNF5dGxt00NF~Voc9sRjkER*M{sWNas:n+Rk"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/brandon_2.webp",
-        "blurhash": "USFY0^^k0x56~Bt69tWAogNHNFsooyjbn*a#"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/brandon_3.webp",
-        "blurhash": "UoJQ+gs:EzNG~VxuSNt6kDt8s.s:ozays;R*"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/brandon_4.webp",
-        "blurhash": "UGFhnzVXE2$k~n9tE#w3BSJ%WXVtNa-o$*Ip"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/cca_5.webp",
-        "blurhash": "UwHV3s%MTJWVu6ozaKoLOukCr?kDn.jZS1W="
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/isak.webp",
-        "blurhash": "UMG+jz$]AVtL+}EA4:oN$wo}NG-:*0a0R:IV"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/jacob.webp",
-        "blurhash": "UHGkn7DhpwS1~qD$xajr0ebXvzsl?akCtQRj"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/kayna_1.webp",
-        "blurhash": "UVF=mv_3?GRk~q%NIpRj%gtRM{RjNHo1M{WB"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/kayna_2.webp",
-        "blurhash": "UJDI]_%h?axb~p%gNxoyt6%Mt6xuE7tk%3xv"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/kayna_3.webp",
-        "blurhash": "UJHL9d~9Ew^%=o^P%LI.?uWVr?xHtM%1$*I:"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/kayna_and_mom.webp",
-        "blurhash": "UoF~5N%h-;xu~WtSxus:x]ogRjV@XSt6RjV@"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/kayna_scooter.webp",
-        "blurhash": "UWGb*L?GtQxt?w?HaykCx_%3aea#%gWBWBj?"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/kitchen_1.webp",
-        "blurhash": "U8BzE=~m~T-j?Zkq9aozIBxtV@%LVtDj-:M{"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/kitchen_2.webp",
-        "blurhash": "UFF$98~V4nM{s:IVR.NHV?WWRPadRjxas.R-"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/lukas_1.webp",
-        "blurhash": "UkF5~o9Zofs:~qD*ofs:-;RjfQj[ozs:WBWV"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/lukas_2.webp",
-        "blurhash": "UwIrHWxDn#%g_NM{WWtRpIR+oejYOFt8jtM{"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/lukas_3.webp",
-        "blurhash": "U$J[9fxtN{M|_Ns:x]js%gofxtWCS4oLoej["
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/mason.webp",
-        "blurhash": "UYDmN^4.%gt7_NIot7t7tRofaKWVx]jtRjay"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/mason_2.webp",
-        "blurhash": "U]H_rdf6R*of~qf6j[fk?bWBWVoet8WVoeay"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/mexico_flag.webp",
-        "blurhash": "U+G0@FVsM_jYYRbIjZayIotRt8ogoeWBWBbI"
-      },
-      {
-        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Portraits and People/mom_dad.webp",
-        "blurhash": "UVF=p?%gX9xu_N%g?HflyD%g%MWB-:t7t7t7"
       }
     ]
   }
