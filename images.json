@@ -1,5 +1,35 @@
 [
   {
+    "category": "Highlights",
+    "description": "Some of my favorite photos that best showcase my work as a whole.",
+    "images": [
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Highlights/7CBE0B60-A668-42E0-853E-624C6798AE38_1_105_c.webp",
+        "blurhash": "UmKKivM_D$xt~pIUM{j^IwM{RnW?oct1t6t7"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Highlights/800031BE-DF33-4155-AEDD-74469DA1C2DA.webp",
+        "blurhash": "UsN0}0Ip-=-p_4bHM{juogt6oeRkofWCa}of"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Highlights/95F13B28-E3EC-4C82-B951-27DA6F3BC850_1_102_o.webp",
+        "blurhash": "UhI67lQ,PBx]_NkWXTtRrrpIRjRP%2IVofoJ"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Highlights/9B25362B-5DA1-45D9-9514-90EA9312E2AE_1_102_o.webp",
+        "blurhash": "U_I~S[RjxUof.AWBadj[WFogt8fRkCozWBj["
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Highlights/B2AD70A6-F60D-491E-8B61-CCF974DEED66_1_102_o.webp",
+        "blurhash": "UbF~jj%M?bRj~q%MITRj?bxuM{Rj%Mt7WDax"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/lukas1h/lukashahnart-media/main/images/Highlights/E0D3ABAA-57EE-4F5C-9013-916012530E71.webp",
+        "blurhash": "UmJuowNd_4xttTaxfkkDE1jE$~a~xua}odoc"
+      }
+    ]
+  },
+  {
     "category": "Portraits and People",
     "description": "Portraits and candid shots of people in various environments.",
     "images": [
